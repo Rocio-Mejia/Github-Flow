@@ -6,14 +6,14 @@ OVA (one-versus-all) es un modelo de clasificación binaria, donde se aprende a 
 
 **Ventajas**
 
--Este enfoque es relativamente razonable cuando la cantidad total de clases es pequeña.
--Usado comúnmente para algoritmos que predicen naturalmente la probabilidad o puntaje de membresía de clase numérica
+- Este enfoque es relativamente razonable cuando la cantidad total de clases es pequeña.
+- Usado comúnmente para algoritmos que predicen naturalmente la probabilidad o puntaje de membresía de clase numérica
 
 **Desventajas**
 
--Se vuelve cada vez más ineficiente a medida que aumenta la cantidad de clases.
--Requiere la creación de un modelo para cada clase.
--Con grandes conjuntos de datos, el modelo se vuelve lento(por ejemplo, redes neuronales) o con un gran número de clases (por ejemplo, cientos de clases).
+- Se vuelve cada vez más ineficiente a medida que aumenta la cantidad de clases.
+- Requiere la creación de un modelo para cada clase.
+- Con grandes conjuntos de datos, el modelo se vuelve lento(por ejemplo, redes neuronales) o con un gran número de clases (por ejemplo, cientos de clases).
 
 **Funcionamiento**
 
