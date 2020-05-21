@@ -31,7 +31,7 @@ Multilabel: para cada clase i, si h(i)(x) devuelve positivo, adjunte la clase i 
 
 [MARTINEZ IRIBE DAVID ERNESTO](https://github.com/DavidMtz1)
 
-[MEJIA MANRIQUEZ ROCIO]
+[MEJIA MANRIQUEZ ROCIO](https://github.com/Rocio-Mejia)
 
 [MONTAÑO PELAYO RAUL ANTONIO]
 
