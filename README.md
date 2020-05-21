@@ -26,8 +26,12 @@ Multilabel: para cada clase i, si h(i)(x) devuelve positivo, adjunte la clase i 
 
 
 ##**Colaboradores**
+
 [LOPEZ VALENCIA LUIS DANIEL](https://github.com/Drani04)
+
 [MARTINEZ IRIBE DAVID ERNESTO](https://github.com/DavidMtz1)
+
 [MEJIA MANRIQUEZ ROCIO]
+
 [MONTAÑO PELAYO RAUL ANTONIO]
 
